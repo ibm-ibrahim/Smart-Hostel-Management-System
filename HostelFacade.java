@@ -1,3 +1,5 @@
+// Facade Pattern: Unified interface for hostel-related services
+
 public class HostelFacade {
 
     private RoomService roomService;
