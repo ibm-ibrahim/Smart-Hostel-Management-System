@@ -1,3 +1,5 @@
+// Factory Pattern: Creates User objects without exposing logic
+
 public class UserFactory {
 
     public static User createUser(String type, String name) {
